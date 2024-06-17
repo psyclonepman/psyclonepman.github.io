@@ -40,6 +40,8 @@ border-radius: 5px;
 border: 5px white;
 border-style: solid;
 color: white;
+-webkit-backdrop-filter: blur(5px);
+backdrop-filter: blur(5px);
 }
 .header {
   padding: 11.5px;
@@ -47,7 +49,7 @@ color: white;
   background-image: url("https://psyclonepman.github.io/bbbbbbbbbbbb.png");
   color: white;
   font-size: 30px;
-  font-family: "Segoe UI Light";
+  font-family: "Helvetica";
 }
 * {
   box-sizing: border-box;
@@ -58,4 +60,6 @@ body {
      background-attachment: fixed;
 	 background-color: rgba(50, 4, 52, 0.63);
 	 color: white;
+	-webkit-backdrop-filter: blur(5px);
+	backdrop-filter: blur(5px);
 }
