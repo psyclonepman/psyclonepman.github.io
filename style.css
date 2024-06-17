@@ -85,7 +85,7 @@ margin-left: auto;
 margin-right: auto;
 background-color: rgba(69, 7, 95, 0.77);
 border-radius: 5px;
-border: 5px rgba(69, 7, 95, 0.77);
+box-shadow: 0 0 15px 2px #000000c3,inset 0 0 0 1px #000000bd,inset 0 0 0 2px #d9e2eb;
 -webkit-background-clip: padding-box; /* for Safari */
 background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
 background-image: url("https://raw.githubusercontent.com/psyclonepman/psyclonepman.github.io/main/128902-win7_reflection.png");
