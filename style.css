@@ -115,9 +115,8 @@ background-image: url("https://raw.githubusercontent.com/psyclonepman/psyclonepm
     margin-right: auto;
     box-shadow: 0 4px 25px rgba(0,0,0,0.12), inset -1px 0 rgba(127,255,255,0.5),inset 1px 0 rgba(255,255,255,0.5),inset 0px 1px rgba(255,255,255,0.5),inset 0px -1px rgba(127,255,255,0.5);
     z-index: 100;
-	color: black;
-	font-family: "Segoe UI"
-	text-shadow : horizontal-shadow vertical-shadow blur white;
+font-family: "Segoe UI"
+
 }
 .header {
   padding: 14px;
@@ -136,6 +135,6 @@ body {
      background-attachment: fixed;
 }
 a {
-  color: #7dc0ff;
+  color: #0099ff;
 }
 
