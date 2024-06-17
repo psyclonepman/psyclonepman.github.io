@@ -145,3 +145,7 @@ body {
 a {
   color: #7dc0ff;
 }
+p {
+	color: black;
+	font-family: "Segoe UI"
+	text-shadow : horizontal-shadow vertical-shadow blur white;
