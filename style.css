@@ -103,7 +103,7 @@ background-image: url("https://raw.githubusercontent.com/psyclonepman/psyclonepm
 		color: white;
 		font-family: Helvetica;
   -webkit-backdrop-filter: blur(3px);
-	 background:  rgba(140, 90, 148, 0.25);
+	 background:  rgba(111, 60, 162, 0.25);
     backdrop-filter: brightness(120%) blur(10px) saturate(150%);
     -webkit-backdrop-filter: brightness(120%) blur(10px) saturate(150%);
     border: 1px solid rgba(0,0,0,0.75);
