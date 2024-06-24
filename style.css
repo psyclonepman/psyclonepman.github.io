@@ -106,7 +106,7 @@ font-family: "Segoe UI"
 .header {
   padding: 14px;
   text-align: center;
-  background-image: linear-gradient(to bottom, #cb60b3 0%,#c146a1 50%,#a80077 51%,#db36a4 100%);
+  background-image: radial-gradient(ellipse at center, #82509f 13%,#82509f 14%,#541a75 100%);
   color: white;
   font-size: 30px;
   font-family: "Segoe UI Light";
