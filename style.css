@@ -1,5 +1,5 @@
 @font-face {
-	  font-family: "Comic Neue", cursive;
+	  font-family: "Comic Neue";
   font-weight: 400;
   font-style: normal;
 }
@@ -46,7 +46,9 @@ box-shadow: inset 0 0 10px #000000;
 -moz-box-shadow: 0 4px 25px rgba(0,0,0,1), inset -1px 0 rgba(255,255,255,0.8),inset 1px 0 rgba(255,255,255,0.8),inset 0px 1px rgba(255,255,255,0.8),inset 0px -1px rgba(255,255,255,0.8);
 color: black;
 text-shadow: 0 0 1em white, 0 0 0.2em white, 0 0 0.4em white;
-font-family: Helvetica;
+	  font-family: "Comic Neue";
+  font-weight: 400;
+  font-style: normal;
 -webkit-backdrop-filter: blur(3px);
 background:  rgba(111, 60, 162, 0.5);
 backdrop-filter: blur(3px) saturate(150%);
@@ -69,7 +71,9 @@ font-family: "Segoe UI"
   background-image: radial-gradient(ellipse at center, #82509f 13%,#82509f 14%,#541a75 100%);
   color: white;
   font-size: 30px;
-  font-family: "Segoe UI Light";
+ 	  font-family: "Comic Neue";
+  font-weight: 400;
+  font-style: normal;
 }
 * {
   box-sizing: border-box;
