@@ -69,9 +69,9 @@ font-family: "Segoe UI"
   padding: 14px;
   text-align: center;
   background-image: radial-gradient(ellipse at center, #82509f 13%,#82509f 14%,#541a75 100%);
-  color: white;
+  color: black;
   font-size: 30px;
- 	  font-family: "Comic Neue";
+ 	  font-family: "Frutiger";
   font-weight: 400;
   font-style: normal;
 }
