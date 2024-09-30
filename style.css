@@ -15,7 +15,7 @@ button {
 	display: inline-block;
 	padding: 15px 25px;
 
-background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0.5158263989189426) 52%, rgba(255,255,255,0.3785714969581583) 52%, rgba(255,255,255,0.08165272945115543) 100%); 
+background: linear-gradient(180deg, rgba(221,203,228,1) 0%, rgba(184,124,204,1) 50%, rgba(168,92,193,1) 51%, rgba(168,92,193,1) 52%, rgba(237,169,254,1) 100%);
   border: 2px white;
   color: #fff;
  text-shadow: #000 1px 0 2px;
@@ -36,12 +36,12 @@ text-shadow: 0px -1px #333;
 }
 button:hover{
  
-background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0.5158263989189426) 52%, rgba(255,255,255,0.3785714969581583) 52%, rgba(255,255,255,1) 100%); 
+background: linear-gradient(180deg, rgba(228,203,222,1) 0%, rgba(204,124,189,1) 50%, rgba(193,92,182,1) 51%, rgba(193,92,174,1) 52%, rgba(254,169,241,1) 100%);
   box-shadow: 0 0 10px #FFF;
 }
 button:active{
 
-background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0.3785714969581583) 40%, rgba(255,255,255,0.5158263989189426) 71%, rgba(255,255,255,1) 100%); 
+background: linear-gradient(180deg, rgba(228,203,222,1) 0%, rgba(204,124,189,1) 69%, rgba(193,92,182,1) 69%, rgba(193,92,174,1) 69%, rgba(193,92,174,1) 69%, rgba(254,169,241,1) 100%);
 box-shadow: inset 0 0 10px #000000;
 }
 
